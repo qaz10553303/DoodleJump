@@ -3,7 +3,21 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - SimplePlatform
+  - Ground
+  - MovePlatform
+  - BrokenPlatform
+  - SuperPlatform
+  - OneTimePlatform
+  - Bullet
+  - Body
+  - Feet
+  - Enemy1
+  - Enemy2
+  - Enemy3
+  - Hat
+  - Rocket
   layers:
   - Default
   - TransparentFX
